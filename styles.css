@@ -1,0 +1,121 @@
+header {
+    width: 793px;
+    height: 82px;
+    background-color: #4A4F56;
+    margin : 0;
+    padding: 19px;
+}
+        h1 {
+            size: 24px;
+            color: rgba(255, 137, 132, 1);
+            text-align: center;
+            font: Roboto;
+            margin-top: 0%;
+        }
+h2 {
+    size: 16px;
+    color: rgba(255, 137, 132, 1);
+    line-height: 18.75px;
+    text-align: center;
+    font: Roboto
+}
+form {
+        width: 793px;
+        height: 425px;
+        background-color: #3B3F45;
+        padding: 19px;
+}
+.checkbox {
+        width: 19px;
+        height: 19px;
+        margin: 0;
+}
+    .checkbox-1 {
+        width: 534px;
+        padding: 12px;
+        display: block;
+        background-color: #88839E;
+        color: #FFFFFF;
+        border: 1px black solid; 
+        margin: 0 auto;
+    }
+    .checkbox-1:hover {
+        background-color: #a79ae6;
+    }
+    .checkbox-2 {
+        width: 534px;
+        padding: 12px;
+        display: block;
+        background-color: #7a7593;
+        color: #9896ac;
+        border: 1px black solid; 
+        margin: 0 auto;
+        text-decoration: line-through;
+    }
+    .checkbox-2:hover {
+    background-color: #a79ae6;
+}
+    .checkbox-3 {
+        width: 534px;
+        padding: 12px;
+        display: block;
+        background-color: #88839E;
+        color: #FFFFFF;
+        border: 1px black solid; 
+        margin: 0 auto;
+    }
+    .checkbox-3:hover {
+        background-color: #a79ae6;
+    }
+    .checkbox-4 {
+        width: 534px;
+        padding: 12px;
+        display: block;
+        background-color: #574d83;
+        color: #FFFFFF;
+        border: 2px rgb(253, 250, 250) solid; 
+        margin: 0 auto;
+    }
+    .checkbox-4:hover {
+        background-color: #a79ae6;
+    }
+    .checkbox-5 {
+        width: 534px;
+        padding: 12px;
+        display: block;
+        background-color: #88839E;
+        color: #FFFFFF;
+        border: 1px black solid; 
+        margin: 0 auto;
+    }
+    .checkbox-5:hover {
+        background-color: #a79ae6;
+    }
+    .checkbox-6 {
+        width: 534px;
+        padding: 12px;
+        display: block;
+        background-color: #7a7593;
+        color: #9896ac;
+        border: 1px black solid; 
+        margin: 0 auto;
+        text-decoration: line-through;
+    }
+    .checkbox-6:hover {
+        background-color: #a79ae6;
+    }
+    .button {
+    width: 558px;
+    padding: 17px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: rgba(255, 137, 132, 1);
+    background-color: #4A4F56;
+    border: 1px black solid; 
+    margin: 0 auto;
+    display: block;
+}
+.button:hover {
+    background-color: #a79ae6;
+}
